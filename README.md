@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoEduardo347&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
- <br>
- 
   ### Me siga nas redes sociais abaixo!
  
 <div> 
